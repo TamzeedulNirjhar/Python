@@ -7,3 +7,5 @@ print(y)
 name = input("Enter your name:")
 
 print("Hello,", name, "Welcome to python")
+import keyword
+print(keyword.kwlist)
