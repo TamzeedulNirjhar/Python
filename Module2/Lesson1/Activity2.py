@@ -7,7 +7,7 @@ if (choice == 1):
     print("What type of bike?")
     print("Scooty")
     print("Scooter")
-
+  
     choice2 = int(input("Enter your choice:"))
     if (choice2 == 1):
         print("You have selected a scooty")
